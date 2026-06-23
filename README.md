@@ -8,7 +8,7 @@ I am currently seeking a high-impact **Computer Engineering / Software Engineeri
 
 ## 🛠️ Technical Arsenal
 
-*   **Core Languages:** Python, C, PHP, R, SQL
+*   **Core Languages:** Python, C, PHP, R, SQL, TypeScirpt, C++
 *   **Concepts & Focus Areas:** Backend Architecture, Data Structures (e.g., Adjacency Matrix & DFS), Relational Database Management, Statistical Data Analysis.
 *   **Tools & Environments:** phpMyAdmin, Git, REST APIs.
 
@@ -48,5 +48,4 @@ The drive I bring to engineering extends to everything I do.
 ### 📥 Let's Build Something Relentless.
 Looking for a driven, adaptable intern who can execute under pressure? Let's talk.
 
-*   📧 **Email:** [Insert Email Here]
-*   🔗 **LinkedIn:** [Insert LinkedIn Profile Link Here]
+*   📧 **Email:** [neopromdon@gmail.com]
