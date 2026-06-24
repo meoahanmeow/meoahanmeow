@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm Neo. I build systems that solve real problems.
+# ⚡ Hi, I'm Neo.
 
 I am a 4th-year Engineering student at **KOSEN-KMITL**, thriving in an intensive Project-Based Learning (PBL) environment. I don't just write scripts; I architect backend structures, analyze complex datasets, and engineer solutions that drive efficiency. 
 
