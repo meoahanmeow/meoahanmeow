@@ -6,7 +6,7 @@ I am currently seeking a high-impact **Computer Engineering / Software Engineeri
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
 *   **Core Languages:** Python, C, PHP, R, SQL, TypeScirpt, C++
 *   **Concepts & Focus Areas:** Backend Architecture, Data Structures (e.g., Adjacency Matrix & DFS), Relational Database Management, Statistical Data Analysis.
