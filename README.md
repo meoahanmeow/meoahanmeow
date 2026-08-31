@@ -1,8 +1,8 @@
 # ⚡ Hi, I'm Neo.
 
-I am a 4th-year Engineering student at **KOSEN-KMITL**, thriving in an intensive Project-Based Learning (PBL) environment. I don't just write scripts; I architect backend structures, analyze complex datasets, and engineer solutions that drive efficiency. 
+I am a 4th-year Engineering student at **KOSEN-KMITL**, fighting in an intensive Project-Based Learning (PBL) environment. I don't just write scripts; I architect backend structures, analyze complex datasets, and engineer solutions that drive efficiency. 
 
-I am currently seeking a high-impact **Computer Engineering / Software Engineering Internship** where I can push technical boundaries, tackle complex problems, and deliver production-level results.
+I am currently seeking a high-impact **Computer Engineering / Software Engineering Internship** where I can push technical boundaries and tackle complex problems
 
 ---
 
@@ -41,11 +41,9 @@ I bring analytical rigor to my development process. Whether I am implementing De
 The drive I bring to engineering extends to everything I do. 
 *   **Discipline:** I apply the same relentless optimization to my physical training as I do to my code, currently pushing my limits to break a **Sub-45 minute 10K** (4:30 pace). 
 *   **Leadership & Vision:** Former President of the Photography Club, leading teams, managing event logistics (like open-house photo booths), and directing creative output. 
-*   **Audiophile:** Deeply invested in high-fidelity audio equipment and portable DAC/AMP setups.
 
 ---
 
-### 📥 Let's Build Something Relentless.
 Looking for a driven, adaptable intern who can execute under pressure? Let's talk.
 
 *   📧 **Email:** [neopromdon@gmail.com]
